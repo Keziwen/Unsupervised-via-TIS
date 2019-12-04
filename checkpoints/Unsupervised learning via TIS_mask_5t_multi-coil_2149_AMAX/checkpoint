@@ -1,0 +1,2 @@
+model_checkpoint_path: "Unsupervised learning via TIS_mask_5t_multi-coil_2149_AMAX.ckpt"
+all_model_checkpoint_paths: "Unsupervised learning via TIS_mask_5t_multi-coil_2149_AMAX.ckpt"
